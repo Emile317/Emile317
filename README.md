@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emile317
 - 👀 I’m interested in learning to code at a younger age (I'm 15 as I am making this page right now).
-- 🌱 I’m currently learning front-end web development.
+- 🌱 I’m currently learning python.
 - 📫 Reach me on my email: emilemuntinga@gmail.com
 
 <!---
